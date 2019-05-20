@@ -12,6 +12,21 @@ By the end of this project you will:
 
 Our intern Dan is working on this killer Movie Quotes App that returns a random movie quote. Right now all it does is render a blank screen in the web browser. Fork the repository found here and help Dan fix it.  
 
+## How to Run
+
+- locally clone the completed project:
+
+```
+git clone https://github.com/abbeymondshein/application_assignment.git
+```
+-  navigate to the project's root folder from your terminal window and use the following commands:
+```
+npm install
+npm start
+```
+- Navigate your web browser to http://localhost:3000/
+- Enjoy!
+
 ## Specifications
 
 The finished project:
